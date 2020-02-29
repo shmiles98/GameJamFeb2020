@@ -1651,3 +1651,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.29-16.35.01:357][360]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap1_BuiltData.NewMap1_BuiltData
 [2020.02.29-16.36.34:235][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2020.02.29-16.36.34:484][773]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.29-19.33.39:359][598]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.40:739][602]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.41:452][604]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.41:879][605]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.43:290][609]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.43:607][610]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.44:609][613]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.45:374][615]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.46:028][617]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.46:376][618]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.46:722][619]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.48:634][624]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.52:676][636]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.33.53:383][638]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.34.00:197][658]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.34.00:197][658]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-19.34.00:955][660]LogAudioMixer: Display: Audio Buffer Underrun detected.
